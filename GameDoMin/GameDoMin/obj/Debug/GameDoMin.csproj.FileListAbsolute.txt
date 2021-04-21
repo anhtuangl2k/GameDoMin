@@ -1,0 +1,9 @@
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\bin\Debug\GameDoMin.exe.config
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\bin\Debug\GameDoMin.exe
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\bin\Debug\GameDoMin.pdb
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.Properties.Resources.resources
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.csproj.GenerateResource.cache
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.csproj.CoreCompileInputs.cache
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.exe
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.pdb
+E:\Learning\LapTrinhGiaoDien\DeTai\GameDoMin\GameDoMin\obj\Debug\GameDoMin.FormDoMin.resources
